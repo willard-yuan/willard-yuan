@@ -16,7 +16,6 @@ ScrollShot makes long screenshots easy: capture scrolling pages, stitch photos, 
   <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40">
 </a>
 
-- AiRenamify: <a href="https://airenamify.com" rel="dofollow"><strong>airenamify.com</strong></a>. AiRenamify uses content-aware AI to give every file its true name.
 - Discord Decoration: <a href="https://discord-decoration.art/" rel="dofollow"><strong>discord-decoration.art</strong></a>. Create stunning Discord avatar decorations for free.
 - YTPlaylistLength: <a href="https://ytplaylistlength.pro/" rel="dofollow"><strong>ytplaylistlength.pro</strong></a>. Best Youtube Playlist Length Calculator to Master your time.
 - EmojiFace: <a href="https://emojiface.us/" rel="dofollow"><strong>emojiface.us</strong></a>. Hide your Face with One Click.
