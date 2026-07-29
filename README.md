@@ -10,7 +10,7 @@
   </p>
 </blockquote>
 
-ScrollShot makes long screenshots easy: capture scrolling pages, stitch photos, and save high-quality full-page images. Private & high-res for iOS. More details to <a href="https://scrollshot.work" rel="dofollow"><strong>scrollshot.work</strong></a>. 
+ScrollShot makes long screenshots easy: capture scrolling pages, stitch photos, and save high-quality full-page images. Private & high-res for iOS and Mac. More details to <a href="https://scrollshot.work" rel="dofollow"><strong>scrollshot.work</strong></a>. 
 
 <a href="https://apps.apple.com/us/app/scrollshot-long-screenshot/id6760192003" target="_blank">
   <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40">
